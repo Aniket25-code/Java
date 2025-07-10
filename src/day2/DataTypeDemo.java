@@ -40,7 +40,11 @@ public class DataTypeDemo {
 	     //String
 	     String name="Aniket" ;
 	     System.out.println(name);
-	     System.out.println(name);
+	     
+	     //booleen 
+	     
+	     boolean bool1 =true;
+	     System.out.println(bool);
 			
 		
 

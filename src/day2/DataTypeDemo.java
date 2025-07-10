@@ -38,9 +38,9 @@ public class DataTypeDemo {
 	     System.out.println(bool);
 	     
 	     //String
-	     String name="john";
+	     String name="Aniket" ;
 	     System.out.println(name);
-		
+	     System.out.println(name);
 			
 		
 

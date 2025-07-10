@@ -9,6 +9,7 @@ public class SecoundProgram {
 		System.out.println(1+5);
 		System.out.println("Welcome"+123);
 		System.out.println("My name is Aniket");
+		System.out.println("My name is John");
 		
 		
 		

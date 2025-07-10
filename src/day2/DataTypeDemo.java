@@ -44,7 +44,7 @@ public class DataTypeDemo {
 	     //booleen 
 	     
 	     boolean bool2 =true;
-	     System.out.println(bool);
+	     System.out.println(bool2);
 			
 		
 

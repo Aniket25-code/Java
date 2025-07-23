@@ -1,9 +1,9 @@
 package javaprograms;
-
+//pre-req=all the numbers having different values
 public class LasrgestOf3Numbers {
 
 	public static void main(String[] args) {
-		int a=11,b=6,c=10;
+		int a=90,b=100,c=200;
 		if(a>b && a>c)
 		{
 			System.out.println("a is the largest number");
